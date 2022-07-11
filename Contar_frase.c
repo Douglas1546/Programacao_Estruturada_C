@@ -20,6 +20,5 @@ int main()
 
     }printf("numero de palavras = %d",conta+1);
 
-
     return 0;
 }
